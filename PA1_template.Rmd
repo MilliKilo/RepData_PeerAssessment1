@@ -9,7 +9,7 @@ Loading and preprocessing the data
 
 ```{r}
 # setwd("~/GitHub/RepData_PeerAssessment1/activity")
-setwd("C:/Users/Rubina/Desktop/R/Class/RR/RepData_PeerAssessment1/activity")
+setwd("C:/Users/Rubina/Desktop/R/Class/RR/RepData_PeerAssessment1")
 data <- read.csv("activity.csv", header= TRUE)
 ```
 ### What is mean total number of steps taken per day?
